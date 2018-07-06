@@ -67,7 +67,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 <div class="thumbnail">
                     <img src="<?php echo base_url();?>/images/container.png"  height="42" width="42" alt="">
                     <div class="caption">
-                        <h4>Bring your own Docker Container</h4>
+                        <h4>Bring your own Docker Container - Does this change?</h4>
                     </div>
                     <br/>
                     <div style="text-align:left">
